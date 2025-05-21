@@ -22,6 +22,6 @@ for Pc in pcArr:
 plt.legend(loc='best')
 plt.grid(True)
 plt.title(ceaObj.desc)
-plt.xlabel('Mixture Ratio')
+plt.xlabel('O/F')
 plt.ylabel('C* (m/s)')
 plt.show()
